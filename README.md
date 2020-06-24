@@ -6,7 +6,7 @@
 ### Contributing
 
 
-> Already comfortable with git? Check out [CONTRIBUTING.md](CONTRIBUTING.md) for quick setup instructions
+> Already comfortable with git? Contact The Abal Group for quick setup instructions
 
 > Oseniopeyemi@gmail.com
 
