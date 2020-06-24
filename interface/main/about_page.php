@@ -3,15 +3,15 @@
 /**
  * OpenEMR About Page
  *
- * This Displays an About page for OpenEMR Displaying Version Number, Support Phone Number
+ * This Displays an About page for AbalHealthcare Displaying Version Number, Support Phone Number
  * If it have been entered in Globals along with the Manual and On Line Support Links
  *
  * @package   OpenEMR
- * @link      http://www.open-emr.org
- * @author    Terry Hill <terry@lilysystems.com>
- * @author    Brady Miller <brady.g.miller@gmail.com>
- * @copyright Copyright (c) 2016 Terry Hill <terry@lillysystems.com>
- * @copyright Copyright (c) 2017 Brady Miller <brady.g.miller@gmail.com>
+ * @link      http://theabalgroup.net
+ * @author    Tijani Mukhtar <info@theabalgroup.net>
+ * @author    Oseni Opeyemi <oseniopeyemi@gmail.com>
+ * @copyright Copyright (c) 2016 Terry Hill <m.tijani@theabalgroup.net>
+ * @copyright Copyright (c) 2017 Brady Miller <oseniopeyemi@gmail.com>
  * @license   https://github.com/openemr/openemr/blob/master/LICENSE GNU General Public License 3
  */
 
@@ -28,7 +28,7 @@ use OpenEMR\Services\VersionService;
 <head>
 
     <?php Header::setupHeader(); ?>
-    <title><?php echo xlt("About");?> OpenEMR</title>
+    <title><?php echo xlt("About");?> Abalhealthcare</title>
     <style>
         .donations-needed {
             margin-top: 25px;
